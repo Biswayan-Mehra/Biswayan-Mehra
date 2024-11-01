@@ -1,7 +1,7 @@
 <h2 align="center">Hello, World! 👋</h2>
 <h3 align="center">I'm <a href="https://vercel.com/"><b>Biswayan Mehra</b></a></h3>
 
-<p align="center">I'm a <strong>final-year Computer Science undergrad<strong>, a competitive coder, and an AI enthusiast. I love exploring technology, developing new skills, and pushing the boundaries of what's possible in the digital world!</p>
+<p align="center">I'm a <strong>final-year Computer Science undergrad</strong>, a competitive coder, and an AI enthusiast. I love exploring technology, developing new skills, and pushing the boundaries of what's possible in the digital world!</p>
 
 <p align="center"><strong>Let’s Connect:</strong></p>
 
@@ -9,7 +9,10 @@
   <a href="https://www.instagram.com/biswayan.mehra/profilecard/?igsh=dmJmenZsZjVwbDQz"><img src="https://img.icons8.com/clouds/100/fa314a/instagram-new--v2.png" alt="Instagram" /></a>
   <a href="https://vercel.com/"><img src="https://img.icons8.com/clouds/100/000000/link.png" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/biswayan-mehra/"><img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/DRACODER"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/DRACODER" style="display: inline-block; padding: 50%;">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" style="display: block; width: 100%; height: auto;" />
+  </a>
+
 </p>
 
 <hr />
@@ -54,6 +57,8 @@
 
 <h2 align="center">My Coding 👨🏽‍💻 & GitHub Stats 📊</h2>
 
+<br>
+
 <details>
 <summary>👨🏽‍💻 Coding Stats</summary>
 <br>
@@ -86,7 +91,7 @@
 </div>
 </details>
 
-<h3 align="center">🌟 Show some love by starring my repositories!</h3>
+<h3 align="center">🌟 Show some ❤️ by starring my repositories!</h3>
 <h3 align="center">
   Visitor count <br> <br>
   <img src="https://profile-counter.glitch.me/Biswayan-Mehra/count.svg" alt="Visitor Count" />
