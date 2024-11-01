@@ -52,9 +52,11 @@
 
 </div>
 
-<h2 align="center">My GitHub Stats 📊</h2>
+<h2 align="center">My Coding & GitHub Stats 📊</h2>
 
 <div align="center">
+  <img src="https://leetcard.jacoblin.cool/DRACODER" alt="LeetCode Stats" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswayan-Mehra&theme=radical&layout=compact" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswayan-Mehra&theme=blue-green" alt="GitHub Streak" />
