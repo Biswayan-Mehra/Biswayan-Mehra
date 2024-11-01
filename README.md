@@ -7,9 +7,9 @@
 
 <p align="center">
   <a href="https://www.instagram.com/biswayan.mehra/profilecard/?igsh=dmJmenZsZjVwbDQz"><img src="https://img.icons8.com/clouds/100/fa314a/instagram-new--v2.png" alt="Instagram" /></a>
-  <a href="https://leetcode.com/u/DRACODER"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/DRACODER"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" /></a>
   <a href="https://vercel.com/"><img src="https://img.icons8.com/clouds/100/000000/link.png" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/biswayan-mehra/"><img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/biswayan-mehra/"><img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn" /></a>
 </p>
 
 <hr />
@@ -75,4 +75,4 @@
 <h3 align="center">
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/Biswayan-Mehra/count.svg" alt="Visitor Count" />
-</h3> 
+</h3>
