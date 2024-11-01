@@ -16,7 +16,7 @@
     <img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/DRACODER" style="display: flex; justify-content: center; align-items: center; width: 100px; height: 100px; padding: 10px; box-sizing: border-box;">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" style="max-width: 50%; max-height: 50%; object-fit: contain;" />
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" style="width: 50px; height: 50px; object-fit: contain;" />
   </a>
 </p>
 
