@@ -32,7 +32,9 @@
 - I'm a final-year student aspiring to become a software developer.
 - I enjoy music, chess, pool, and tennis.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/DRACODER)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DRACODER" alt="LeetCode Stats" />
+</p>
 
 <hr />
 
@@ -73,6 +75,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswayan-Mehra&theme=blue-green" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Biswayan-Mehra&show_icons=true&theme=blue-green&line_height=21" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswayan-Mehra&theme=dracula" alt="Biswayan's Github Trophy" />
   <br>
 </p>
 </details>
