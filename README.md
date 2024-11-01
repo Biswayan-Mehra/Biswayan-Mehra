@@ -5,13 +5,20 @@
 
 <p align="center"><strong>Let’s Connect:</strong></p>
 
-<p align="center">
-  <a href="https://www.instagram.com/biswayan.mehra/profilecard/?igsh=dmJmenZsZjVwbDQz"><img src="https://img.icons8.com/clouds/100/fa314a/instagram-new--v2.png" alt="Instagram" /></a>
-  <a href="https://vercel.com/"><img src="https://img.icons8.com/clouds/100/000000/link.png" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/biswayan-mehra/"><img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/DRACODER" style="display: inline-block; padding: 50%;">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" style="display: block; width: 100%; height: auto;" />
+<p align="center" style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <a href="https://www.instagram.com/biswayan.mehra/profilecard/?igsh=dmJmenZsZjVwbDQz">
+    <img src="https://img.icons8.com/clouds/100/fa314a/instagram-new--v2.png" alt="Instagram" />
   </a>
+  <a href="https://vercel.com/">
+    <img src="https://img.icons8.com/clouds/100/000000/link.png" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/biswayan-mehra/">
+    <img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/DRACODER" style="display: flex; justify-content: center; align-items: center; width: 100px; height: 100px; padding: 10px; box-sizing: border-box;">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" style="max-width: 50%; max-height: 50%; object-fit: contain;" />
+  </a>
+</p>
 
 </p>
 
