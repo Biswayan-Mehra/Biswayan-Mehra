@@ -46,8 +46,8 @@
   <img src="https://img.icons8.com/color/96/null/git.png" alt="Git" />
   <img src="https://img.icons8.com/plasticine/100/000000/github-squared.png" alt="GitHub" />
   <img src="https://img.icons8.com/fluency/96/null/visual-studio-code-2019.png" alt="VS Code" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/831px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" height="70" />
-  <img src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png" alt="Firebase" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/831px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" height="90" />
+  <img src="https://img.icons8.com/color/100/firebase.png" alt="Firebase" />
 </p>
 
 </div>
