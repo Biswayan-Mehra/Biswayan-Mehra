@@ -5,6 +5,8 @@
   <p>I'm a <strong>final-year Computer Science undergrad</strong>, a competitive coder, and an AI enthusiast.<br>
   I love exploring technology, developing new skills, and pushing the boundaries of what's possible in the digital world!</p>
 
+  <br>
+
   <div>
     <a href="https://www.instagram.com/biswayan.mehra/profilecard/?igsh=dmJmenZsZjVwbDQz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
     <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -13,7 +15,7 @@
   </div>
 </div>
 
-<hr>
+<br>
 
 <div align="center">
   <h2>About Me 🧑‍💻</h2>
@@ -22,6 +24,8 @@
 - 🎓 Final-year student with a passion for software development and artificial intelligence
 - 🧩 Competitive coder who enjoys problem-solving and always looks for a challenge
 - 🎶 I also love music, chess, pool, and tennis
+
+<br>
 
 <div align="center">
   <h2>Skills & Technologies 🚀</h2>
@@ -63,6 +67,8 @@
   </p>
 </div>
 
+<br>
+
 <div align="center">
   <h2>My Coding 👨🏽‍💻 & GitHub Stats 📊</h2>
 </div>
@@ -96,9 +102,11 @@
 </div>
 </details>
 
+<br>
+
 <div align="center">
   <h3>🌟 Show some ❤️ by starring my repositories!</h3>
-  <h3>Visitor count<br>
+  <h3>Visitor count<br><br>
     <img src="https://profile-counter.glitch.me/Biswayan-Mehra/count.svg" alt="Visitor Count"/>
   </h3>
 </div>
